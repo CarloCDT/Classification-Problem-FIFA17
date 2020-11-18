@@ -1,4 +1,4 @@
-![stronghold logo](img/stronghold-logo-left.png)
+![stronghold logo](DeepJinnie Logo.png)
 
 [![Downloads](http://pepy.tech/badge/stronghold)](http://pepy.tech/count/stronghold)
 
