@@ -1,4 +1,5 @@
-![stronghold logo](/images/DeepJinnieLogo.png)
+![GitHub Logo](/images/DeepJinnieLogo.png)
+Format: ![Alt Text](url)
 
 [![Downloads](http://pepy.tech/badge/stronghold)](http://pepy.tech/count/stronghold)
 
