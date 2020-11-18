@@ -1,10 +1,9 @@
+<h1 align="center">Project DeepJinnie</h1>
+<div align="center">
+
 ![DeepJinnie](Images/DeepJinnieLogo.png)
 
-`stronghold` is the easiest way to securely configure your Mac.
-
-![GIF demo](img/demo.gif)
-
-Designed for macOS Sierra and High Sierra. *Not yet tested on macOS Mojave, but I'm working on updating it!*
+`DeepJinnie` is the easiest way to find the answers you seek online. 
 
 **How to Contribute**
 ---
