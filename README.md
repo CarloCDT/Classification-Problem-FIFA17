@@ -1,4 +1,4 @@
-![DeepJinnie](Classification-Problem-FIFA17/Images/DeepJinnieLogo.png)
+![DeepJinnie](Images/DeepJinnieLogo.png)
 
 `stronghold` is the easiest way to securely configure your Mac.
 
