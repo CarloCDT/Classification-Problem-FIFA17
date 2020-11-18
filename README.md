@@ -1,5 +1,4 @@
-![GitHub Logo](/images/DeepJinnieLogo.png)
-Format: ![Alt Text](url)
+![DeepJinnie](/images/DeepJinnieLogo.png)
 
 [![Downloads](http://pepy.tech/badge/stronghold)](http://pepy.tech/count/stronghold)
 
@@ -8,75 +7,6 @@ Format: ![Alt Text](url)
 ![GIF demo](img/demo.gif)
 
 Designed for macOS Sierra and High Sierra. *Not yet tested on macOS Mojave, but I'm working on updating it!*
-
-**Usage**
----
-
-```
-Usage: stronghold.py [OPTIONS]
-
-  Securely configure your Mac.
-  Developed by Aaron Lichtman -> (Github: alichtman)
-
-
-Options:
-  -lockdown  Set secure configuration without user interaction.
-  -v         Display version and author information and exit.
-  -help, -h  Show this message and exit.
-```
-
-**Installation Options**
----
-
-1. Install with [`pip`](https://pypi.org/project/stronghold/)
-    + `$ pip install stronghold`
-    + `$ stronghold`
-
-2. Download the `stronghold` binary from Releases tab.
-
-
-**Configuration Options**
----
-
-1. Firewall
-
-    + Turn on Firewall?
-        - This helps protect your Mac from being attacked over the internet.
-    + Turn on logging?
-        - If there IS an infection, logs are useful for determining the source.
-    + Turn on stealth mode?
-        - Your Mac will not respond to ICMP ping requests or connection attempts from closed TCP and UDP networks.
-
-2. General System Protection
-
-    + Enable Gatekeeper?
-    	- Defend against malware by enforcing code signing and verifying downloaded applications before allowing them to run.
-    + Prevent automatic software whitelisting?
-        - Both built-in and downloaded software will require user approval for whitelisting.
-    + Disable Captive Portal Assistant and force login through browser on untrusted networks?
-        - Captive Portal Assistant could be triggered and direct you to a malicious site WITHOUT any user interaction.
-
-3. User Metadata Storage
-
-    + Clear language modeling metadata?
-        - This includes user spelling, typing and suggestion data.
-    + Disable language modeling data collection?
-    + Clear QuickLook metadata?
-    + Clear Downloads metadata?
-    + Disable metadata collection from Downloads?
-    + Clear SiriAnalytics database?
-
-4. User Safety
-
-    + Lock Mac as soon as screen saver starts?
-    + Display all file extensions?
-    	- This prevents malware from disguising itself as another file type.
-    + Disable saving documents to the cloud by default?
-        - This prevents sensitive documents from being unintentionally stored on the cloud.
-    + Show hidden files in Finder?
-    	- This lets you see all files on the system without having to use the terminal.
-    + Disable printer sharing?
-        - Offers redundancy in case the Firewall was not configured.
 
 **How to Contribute**
 ---
