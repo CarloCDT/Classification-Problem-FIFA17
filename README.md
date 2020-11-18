@@ -1,5 +1,5 @@
-<h1 align="center">Project DeepJinnie</h1>
-<div align="center">
+<h1 align="center"> Project DeepJinnie </h1>
+<div align="left">
 
 ![DeepJinnie](Images/DeepJinnieLogo.png)
 
