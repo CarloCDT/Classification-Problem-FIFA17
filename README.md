@@ -1,4 +1,4 @@
-# FIFA 17 - Players Classification Project
+# FIFA 17 - Players Position Classification Project
 
 ## Description
 Personal project to predict a player position based on the player's Fifa 17 attributes. In the jupyter notebook `Classification Problem - FIFA 17.ipynb` I used a logistic regression and a dense NN for this task and compare the results obtained.
